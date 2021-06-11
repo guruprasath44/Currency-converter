@@ -25,7 +25,7 @@ class ConvertCurrency extends React.Component {
   render() {
     return (
       <div className="ui main">
-        <h2>Add Currency</h2>
+        <h2>Convert Currency</h2>
         <form className="ui form" onSubmit={this.add}>
           <div className="field">
             <label>Base Currency</label>
